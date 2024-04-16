@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [13.404954, 52.520008]
+            },
+            "properties": {
+                "name": "Berlin",
+                "country": "Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2.352222, 48.856614]
+            },
+            "properties": {
+                "name": "Paris",
+                "country": "France"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-0.127647, 51.507322]
+            },
+            "properties": {
+                "name": "London",
+                "country": "United Kingdom"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.632273, 46.519962]
+            },
+            "properties": {
+                "name": "Lausanne",
+                "country": "Switzerland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.541694, 47.376886]
+            },
+            "properties": {
+                "name": "Zurich",
+                "country": "Switzerland"
+            }
+        }
+    ]
+}

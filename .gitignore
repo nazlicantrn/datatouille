@@ -1,0 +1,14 @@
+
+responses/places_ChIJr54jbebDhkcRlR68yNtO368_20240327173226.json
+responses/places_ChIJr54jbebDhkcRlR68yNtO368_20240327173640.json
+responses/places_search_Enrico Bartolini al Mudec via Tortona 56, Milan, 20144, Italy_20240327173224.json
+responses/the_fork_276943_20240327160251.json
+responses/the_fork_276943_20240327174118.json
+responses/the_fork_auto_complete_Enrico Bartolini al Mudec_20240327173901.json
+responses/the_fork_auto_complete_Enrico Bartolini al Mudec_20240327173959.json
+responses/the_fork_auto_complete_Restaurant Auguste_20240327155229.json
+responses/the_fork_auto_complete_Restaurant Auguste_20240327155422.json
+responses/the_fork_auto_complete_Restaurant Auguste_20240327155451.json
+*.pyc
+.DS_Store
+.env
